@@ -1,0 +1,9 @@
+E:\Assignment\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+E:\Assignment\Common\bin\Debug\netcoreapp3.1\Common.dll
+E:\Assignment\Common\bin\Debug\netcoreapp3.1\Common.pdb
+E:\Assignment\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+E:\Assignment\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Assignment\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Assignment\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Assignment\Common\obj\Debug\netcoreapp3.1\Common.dll
+E:\Assignment\Common\obj\Debug\netcoreapp3.1\Common.pdb

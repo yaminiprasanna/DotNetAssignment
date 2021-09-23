@@ -1,0 +1,12 @@
+E:\Assignment\EFlib\bin\Debug\netcoreapp3.1\EFlib.deps.json
+E:\Assignment\EFlib\bin\Debug\netcoreapp3.1\EFlib.runtimeconfig.json
+E:\Assignment\EFlib\bin\Debug\netcoreapp3.1\EFlib.runtimeconfig.dev.json
+E:\Assignment\EFlib\bin\Debug\netcoreapp3.1\EFlib.dll
+E:\Assignment\EFlib\bin\Debug\netcoreapp3.1\EFlib.pdb
+E:\Assignment\EFlib\obj\Debug\netcoreapp3.1\EFlib.csproj.AssemblyReference.cache
+E:\Assignment\EFlib\obj\Debug\netcoreapp3.1\EFlib.AssemblyInfoInputs.cache
+E:\Assignment\EFlib\obj\Debug\netcoreapp3.1\EFlib.AssemblyInfo.cs
+E:\Assignment\EFlib\obj\Debug\netcoreapp3.1\EFlib.csproj.CoreCompileInputs.cache
+E:\Assignment\EFlib\obj\Debug\netcoreapp3.1\EFlib.dll
+E:\Assignment\EFlib\obj\Debug\netcoreapp3.1\EFlib.pdb
+E:\Assignment\EFlib\obj\Debug\netcoreapp3.1\EFlib.genruntimeconfig.cache
